@@ -1,4 +1,4 @@
 # m_list_logo test
 
-![image](img/logo.png)
+<div style="text-align:center"><img src ="img/logo.png." alt="m_list_logo" /></div>
 
